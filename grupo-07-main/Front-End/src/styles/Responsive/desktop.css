@@ -1,0 +1,13 @@
+/* --- Desktop: de 1280px a 1950px --- */
+
+@media screen and (min-width: 1280px) and (max-width: 1950px) {
+
+  /* ------------------ HOME ------------------ */
+
+  /* --- Category Cards --- */
+  .category--cards {
+    width: 23%;
+    margin: 1rem 0;
+  }
+  
+}

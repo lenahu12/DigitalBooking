@@ -1,0 +1,22 @@
+.error--container {
+    background-color: #FAE0E0;
+    color: #B40D2B;
+    padding: 0.8rem;
+    border-radius: 0.2rem;
+    font-weight: 600;
+    margin-block: 1rem;
+}
+
+.error--container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 3.5rem;
+}
+
+.error--container i {
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+

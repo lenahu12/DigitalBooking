@@ -1,0 +1,164 @@
+/* --- Tablet: desde 768px a 1280px --- */
+@media screen and (min-width: 768px) and (max-width: 1280px) {
+  
+  /* ------------------ HOME ------------------ */
+
+  
+  /* --- Category Cards --- */
+
+  .category--cards {
+    max-width: 40%;
+  }
+
+
+  /* --- Cards --- */
+
+  .cardsLayout--cards {
+    grid-template-columns: 1fr;
+  }
+
+  /* --- Browser --- */
+
+  .browser--container {
+    padding: 1.2rem 2.5rem;
+  }
+  
+  .DateRangePickerInput,
+  .searchbar__container {
+    width: 25rem;
+  }
+
+  /* ------------------ PRODUCT ------------------ */
+
+  /* --- Gallery --- */
+
+  .product-galery--desktop,
+  .alice-carousel__prev-btn,
+  .alice-carousel__next-btn {
+    display: none;
+  }
+
+  .product-galery--tablet {
+    display: block;
+  }
+
+  .alice-carousel {
+    position: inherit !important;
+    width: 100% !important;
+    padding: 1rem 0 !important;
+  }
+
+  .alice-carousel__stage-item * {
+    height: auto !important;
+  }
+  .alice-carousel__stage-item > img {
+    width: 100% !important;
+  }
+
+  /* --- Feature --- */
+
+  .productFeatures--container {
+    grid-template-columns: repeat(2, 2fr);
+  }
+
+  /* --- Calendar --- */
+  
+  .product--calendarLayout-elements{
+    display: flex;
+    flex-direction: column;
+  }
+  .product--calendarLayout-form{
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: unset;
+    box-shadow: unset;
+    padding: 0;
+  }
+  .calendarLayout-button{
+    width: 50%;
+  }
+  .booking-containerForm{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .containerForm-containerBooking-formbooking{
+    display: flex;
+    padding: 1.2rem;
+    padding-right: 0;
+    padding-top: 0;
+  }
+
+  .containerForm-img{
+    width: 50%;
+    min-height: 25rem;
+  }
+  .containerForm-containerBooking-containerInfo{
+    width: 50%;
+  }
+  .containerForm-containerBooking-carTitle{
+    padding: 1.2rem 1.2rem;
+  }
+  .containerForm-containerBooking-botonera{
+    padding-bottom: 0;
+  }
+
+  /* --- Policies --- */
+
+  .productPolicies--container {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
+
+  .productPolicies--contentContainer {
+    padding: 0 2rem 2rem 0;
+  }
+
+  /* Admin */
+  .adminForm-divLocation{
+    column-gap: 1.2rem;
+  }
+  .adminForm-divPolicies-containerPolicies{
+    grid-template-columns: 1fr;
+    padding: 1.2rem 1.2rem;
+  }
+  .adminForm-containerPolices-Policies{
+    padding: 0;
+  }
+  .adminForm-sectionContainer{
+    padding: 1.2rem 4rem;
+  }
+  .category-divLabel-nombre{
+    width: 70%;
+  }
+  .adminForm-category-Label{
+    padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  /* browser */
+  .browser--form-container {
+    flex-direction: column;
+  }
+  .DateRangePickerInput,
+  .searchbar__container {
+    width: 40rem;
+  }
+  .containerForm-containerBooking-formbooking{
+    flex-direction: column;
+    padding-left: 0;
+    padding-top: 0;
+  }
+  .containerForm-img, .containerForm-containerBooking-containerInfo{
+    width: 100%;
+  }
+  .containerForm-containerBooking-carTitle{
+    padding: 1.2rem 1.2rem !important;
+  }
+  
+  
+}

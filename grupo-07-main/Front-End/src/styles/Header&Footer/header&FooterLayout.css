@@ -1,0 +1,51 @@
+/*---------- Header & Footer ------------ */
+
+.header--container,
+.footer--container {
+  box-shadow: var(--main-box-shadow);
+  z-index: 2;
+}
+
+.header--container {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  padding: 1.2rem 2.5rem;
+}
+
+.footer--container {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 0.8rem 2.5rem;
+  background-color: var(--primary-color);
+}
+
+.header--nav-container,
+.footer--nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header--nav-buttons-container {
+  display: flex;
+  gap: 2.5rem;
+}
+
+.header--nav-btnburger{
+  display: none;
+}
+
+.header--main-logo {
+  cursor: pointer;
+}
+
+.footer--nav-icons-container {
+  cursor: pointer;
+  display: flex;
+  gap: 2rem;
+  font-size: 1.5rem;
+}
+
+

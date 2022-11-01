@@ -1,0 +1,29 @@
+/*---------- Category Container ------------ */
+
+.categoryLayout--categories {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+/*---------- Category ------------ */
+
+.category--cards {
+  box-shadow: var(--secondary-box-shadow);
+  border-radius: 1rem;
+  margin: 1rem;
+  max-width: 28.438rem;
+  cursor: pointer;
+}
+
+.home--category-card-img {
+  width: 100%;
+  height: 70%;
+  border-radius: 1rem 1rem 0 0;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 85%, 0% 100%);
+  object-fit: cover;
+}
+
+.home--category-card-info-container {
+  padding: 1rem;
+}

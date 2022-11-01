@@ -1,0 +1,721 @@
+[
+  {
+    "id": 1,
+    "title": "2019 Mercedes-Benz AMG GT S",
+    "license_plate": "LQG-120",
+    "description": "Tecnológicamente, el Mercedes-AMG GT 2019 ha dado un importante salto, con el nuevo cuadro de instrumentos digital y la pantalla de 10,25 pulgadas del sistema multimedia. Además, equipa un nuevo sistema para circuito, el Command Online, que incluye el AMG Track Pace, un sistema que registra datos del coche en circuito, como información de tiempos por vueltas o sectores. Otra novedad es la aplicación AMG Dynamics, que permite personalizar el funcionamiento del control de estabilidad, independientemente del modo de conducción seleccionado. En cuanto a ayudas a la conducción, el nuevo deportivo de Mercedes incluye opciones como el sistema de aparcamiento automático Parktronic, con cámaras de visión delantera y trasera, además de otros sistemas ya disponibles en el anterior modelo, como la alerta por cansancio o aviso de cambio de carril.",
+    "availability": false,
+    "city": [
+      {
+        "id": 1,
+        "name": "Rio",
+        "country": "Brazil"
+      }
+    ],
+    "category": [
+      {
+        "id": "4",
+        "title": "Gama baja",
+        "description": "Ocicat malkin leopard so american bobtail bombay american bobtail. Lynx havana brown yet sphynx havana brown yet kitty. British shorthair mouser but abyssinian and bombay, so tomcat tom singapura. Tom manx bobcat so thai. Tabby balinese for savannah, tiger, and birman. Tomcat. ",
+        "image": "https://images.unsplash.com/photo-1536667842290-7602f6a43a2b?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170"
+      }
+    ],
+    "images": [
+      {
+        "id": 9,
+        "title": "imagen1",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 5,
+        "title": "imagen2",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 6,
+        "title": "imagen3",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 7,
+        "title": "imagen4",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg"
+      },
+      {
+        "id": 8,
+        "title": "imagen5",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+      }
+    ],
+    "ratings": [],
+    "policies": [
+      {
+        "id": 1,
+        "terms_title": "LLEGADA CON RETRASO",
+        "terms_content": "Si hacés una reserva y no te presentás a la hora pactada tenemos una tolerancia de espera de 59 minutos, una vez pasados se considera no show y la reserva queda cancelada.",
+        "safety_title": "SALUD Y SEGURIDAD",
+        "safety_content": "El auto es desinfectado después de cada alquiler, sobre todo las superficies que más se tocan, como asientos, palanca de cambios, picaportes y manubrio.",
+        "cancellation_title": "CANCELACIÓN DE RESERVA",
+        "cancellation_content": "La confirmación de la reserva prepaga implica la aceptación de un cargo de cancelación desde la realización de dicha reserva hasta 24 Hs previas a la fecha y hora para retirar la unidad equivalente a un monto predeterminado dependiendo de la fecha de pick up del vehículo más 4% de cargos administrativos."
+      }
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chevrolet (Azul)",
+    "license_plate": "KQG-130",
+    "description": "British shorthair siberian singapura. Thai singapura havana brown. Tomcat american shorthair for kitty. Russian blue. Singapura havana brown so puma but thai bombay. Scottish fold mouser. Scottish fold egyptian mau. Jaguar. Balinese american bobtail, tom american bobtail ocelot tom norwegian forest. American bobtail. Persian panther for cheetah mouser for kitten. Burmese savannah, but egyptian mau and siamese ocicat.",
+    "availability": false,
+    "city": [
+      {
+        "id": 2,
+        "name": "Paris",
+        "country": "Francia"
+      }
+    ],
+    "category": [
+      {
+        "id": "3",
+        "title": "Gama media",
+        "description": "Ocicat malkin leopard so american bobtail bombay american bobtail. Lynx havana brown yet sphynx havana brown yet kitty. British shorthair mouser but abyssinian and bombay, so tomcat tom singapura. Tom manx bobcat so thai. Tabby balinese for savannah, tiger, and birman. Tomcat. ",
+        "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGF1dG98ZW58MHx8MHx8&auto=format&fit=crop&w=500"
+      }
+    ],
+    "images": [
+      {
+        "id": 10,
+        "title": "imagen1",
+        "url_image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+      },
+      {
+        "id": 5,
+        "title": "imagen2",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 6,
+        "title": "imagen3",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 7,
+        "title": "imagen4",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg"
+      },
+      {
+        "id": 8,
+        "title": "imagen5",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+      }
+    ],
+    "ratings": [],
+    "policies": [
+      {
+        "id": 2,
+        "terms_title": "LLEGADA CON RETRASO",
+        "terms_content": "Si hacés una reserva y no te presentás a la hora pactada tenemos una tolerancia de espera de 59 minutos, una vez pasados se considera no show y la reserva queda cancelada.",
+        "safety_title": "SALUD Y SEGURIDAD",
+        "safety_content": "El auto es desinfectado después de cada alquiler, sobre todo las superficies que más se tocan, como asientos, palanca de cambios, picaportes y manubrio.",
+        "cancellation_title": "CANCELACIÓN DE RESERVA",
+        "cancellation_content": "La confirmación de la reserva prepaga implica la aceptación de un cargo de cancelación desde la realización de dicha reserva hasta 24 Hs previas a la fecha y hora para retirar la unidad equivalente a un monto predeterminado dependiendo de la fecha de pick up del vehículo más 4% de cargos administrativos."
+      }
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Mercedes-Benz (Rojo)",
+    "license_plate": "ABC-666",
+    "description": "Russian blue havana brown. Bobcat. Cornish rex ocelot so russian blue but maine coon havana brown or scottish fold. Tabby turkish angora and siamese devonshire rex. Siberian ragdoll or thai. Tomcat munchkin manx maine coon so kitten, but american shorthair. Himalayan egyptian mau bengal himalayan devonshire rex but tomcat. Burmese cougar but siamese balinese . Puma tomcat. Puma sphynx yet balinese ocelot mouser, but grimalkin. Malkin birman so munchkin, devonshire rex or persian and turkish angora. Manx balinese . Jaguar bombay siberian or lion.",
+    "availability": false,
+    "city": [
+      {
+        "id": 3,
+        "name": "Moscu",
+        "country": "Rusia"
+      }
+    ],
+    "category": [
+      {
+        "id": "4",
+        "title": "Gama baja",
+        "description": "Ocicat malkin leopard so american bobtail bombay american bobtail. Lynx havana brown yet sphynx havana brown yet kitty. British shorthair mouser but abyssinian and bombay, so tomcat tom singapura. Tom manx bobcat so thai. Tabby balinese for savannah, tiger, and birman. Tomcat. ",
+        "image": "https://images.unsplash.com/photo-1536667842290-7602f6a43a2b?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170"
+      }
+    ],
+    "images": [
+      {
+        "id": 11,
+        "title": "imagen1",
+        "url_image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=825"
+      },
+      {
+        "id": 5,
+        "title": "imagen2",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 6,
+        "title": "imagen3",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 7,
+        "title": "imagen4",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg"
+      },
+      {
+        "id": 8,
+        "title": "imagen5",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+      }
+    ],
+    "ratings": [],
+    "policies": [
+      {
+        "id": 3,
+        "terms_title": "LLEGADA CON RETRASO",
+        "terms_content": "Si hacés una reserva y no te presentás a la hora pactada tenemos una tolerancia de espera de 59 minutos, una vez pasados se considera no show y la reserva queda cancelada.",
+        "safety_title": "SALUD Y SEGURIDAD",
+        "safety_content": "El auto es desinfectado después de cada alquiler, sobre todo las superficies que más se tocan, como asientos, palanca de cambios, picaportes y manubrio.",
+        "cancellation_title": "CANCELACIÓN DE RESERVA",
+        "cancellation_content": "La confirmación de la reserva prepaga implica la aceptación de un cargo de cancelación desde la realización de dicha reserva hasta 24 Hs previas a la fecha y hora para retirar la unidad equivalente a un monto predeterminado dependiendo de la fecha de pick up del vehículo más 4% de cargos administrativos."
+      }
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Audi (Gris Perla)",
+    "license_plate": "RRR-500",
+    "description": "Ocelot. Mouser. Devonshire rex. Bengal ocicat so burmese or malkin. Persian devonshire rex, leopard. Cornish rex bobcat for munchkin so grimalkin turkish angora, for cornish rex for himalayan. Egyptian mau. Abyssinian grimalkin tabby so lynx and persian, manx grimalkin. Russian blue. Panther grimalkin, or egyptian mau. British shorthair bengal. Bengal tabby. Kitten panther. British shorthair siamese donskoy manx devonshire rex or bobcat. Birman siberian american shorthair, or bengal. Persian savannah siamese russian blue so abyssinian.",
+    "availability": false,
+    "city": [
+      {
+        "id": 4,
+        "name": "Buenos Aires",
+        "country": "Argentina"
+      }
+    ],
+    "category": [
+      {
+        "id": "1",
+        "title": "Gama alta",
+        "description": "Ocicat malkin leopard so american bobtail bombay american bobtail. Lynx havana brown yet sphynx havana brown yet kitty. British shorthair mouser but abyssinian and bombay, so tomcat tom singapura. Tom manx bobcat so thai. Tabby balinese for savannah, tiger, and birman. Tomcat. ",
+        "image": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGF1dG98ZW58MHx8MHx8&auto=format&fit=crop&w=500"
+      }
+    ],
+    "images": [
+      {
+        "id": 12,
+        "title": "imagen1",
+        "url_image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464"
+      },
+      {
+        "id": 5,
+        "title": "imagen2",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 6,
+        "title": "imagen3",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 7,
+        "title": "imagen4",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg"
+      },
+      {
+        "id": 8,
+        "title": "imagen5",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+      }
+    ],
+    "ratings": [],
+    "policies": [
+      {
+        "id": 4,
+        "terms_title": "LLEGADA CON RETRASO",
+        "terms_content": "Si hacés una reserva y no te presentás a la hora pactada tenemos una tolerancia de espera de 59 minutos, una vez pasados se considera no show y la reserva queda cancelada.",
+        "safety_title": "SALUD Y SEGURIDAD",
+        "safety_content": "El auto es desinfectado después de cada alquiler, sobre todo las superficies que más se tocan, como asientos, palanca de cambios, picaportes y manubrio.",
+        "cancellation_title": "CANCELACIÓN DE RESERVA",
+        "cancellation_content": "La confirmación de la reserva prepaga implica la aceptación de un cargo de cancelación desde la realización de dicha reserva hasta 24 Hs previas a la fecha y hora para retirar la unidad equivalente a un monto predeterminado dependiendo de la fecha de pick up del vehículo más 4% de cargos administrativos."
+      }
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      },
+      {
+        "id": "4",
+        "title": "Asientos de cuero",
+        "description": "Asientos de primera!",
+        "icon": "fa-solid fa-chair"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Audi (Amarillo)",
+    "license_plate": "AAA-500",
+    "description": "Ocicat leopard, but cornish rex singapura norwegian forest so grimalkin. Lion. Leopard cheetah for devonshire rex. Mouser. Grimalkin. Cornish rex leopard so balinese so bobcat yet bengal so american shorthair for cornish rex. Birman egyptian mau persian persian maine coon bengal, yet persian. Cheetah russian blue. Maine coon burmese or norwegian forest or british shorthair or ocicat yet munchkin cornish rex. Siamese. Turkish angora egyptian mau panther. Malkin tabby abyssinian yet sphynx, thai devonshire rex for puma.",
+    "availability": false,
+    "city": [
+      {
+        "id": 5,
+        "name": "Brasilia",
+        "country": "Brasil"
+      }
+    ],
+    "category": [
+      {
+        "id": "3",
+        "title": "Gama media",
+        "description": "Ocicat malkin leopard so american bobtail bombay american bobtail. Lynx havana brown yet sphynx havana brown yet kitty. British shorthair mouser but abyssinian and bombay, so tomcat tom singapura. Tom manx bobcat so thai. Tabby balinese for savannah, tiger, and birman. Tomcat. ",
+        "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGF1dG98ZW58MHx8MHx8&auto=format&fit=crop&w=500"
+      }
+    ],
+    "images": [
+      {
+        "id": 13,
+        "title": "imagen1",
+        "url_image": "https://images.unsplash.com/photo-1610399214658-52b9fdea4627?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "id": 5,
+        "title": "imagen2",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 6,
+        "title": "imagen3",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 7,
+        "title": "imagen4",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg"
+      },
+      {
+        "id": 8,
+        "title": "imagen5",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+      }
+    ],
+    "ratings": [],
+    "policies": [
+      {
+        "id": 5,
+        "terms_title": "LLEGADA CON RETRASO",
+        "terms_content": "Si hacés una reserva y no te presentás a la hora pactada tenemos una tolerancia de espera de 59 minutos, una vez pasados se considera no show y la reserva queda cancelada.",
+        "safety_title": "SALUD Y SEGURIDAD",
+        "safety_content": "El auto es desinfectado después de cada alquiler, sobre todo las superficies que más se tocan, como asientos, palanca de cambios, picaportes y manubrio.",
+        "cancellation_title": "CANCELACIÓN DE RESERVA",
+        "cancellation_content": "La confirmación de la reserva prepaga implica la aceptación de un cargo de cancelación desde la realización de dicha reserva hasta 24 Hs previas a la fecha y hora para retirar la unidad equivalente a un monto predeterminado dependiendo de la fecha de pick up del vehículo más 4% de cargos administrativos."
+      }
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      },
+      {
+        "id": "4",
+        "title": "Asientos de cuero",
+        "description": "Asientos de primera!",
+        "icon": "fa-solid fa-chair"
+      },
+      {
+        "id": "5",
+        "title": "Techo corredizo",
+        "description": "re piola tener un techo corredizo",
+        "icon": "fa-solid fa-taxi"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Ferrari (Rojo)",
+    "license_plate": "BEI-500",
+    "description": "Thai burmese birman. American bobtail british shorthair but bobcat but sphynx but bombay. Sphynx ragdoll but tiger, lion abyssinian so cheetah. Kitty sphynx savannah balinese himalayan so maine coon. Sphynx bobcat or siamese or manx or persian and singapura or egyptian mau. Cougar tom, kitten. Siberian birman american shorthair ocicat ragdoll. Donskoy cheetah donskoy, yet ocelot devonshire rex yet ocelot russian blue. Balinese bobcat yet cheetah. Manx birman so himalayan.",
+    "availability": false,
+    "city": [
+      {
+        "id": 6,
+        "name": "Florida",
+        "country": "Estados Unidos"
+      }
+    ],
+    "category": [
+      {
+        "id": "2",
+        "title": "Gama media-alta",
+        "description": "Ocicat malkin leopard so american bobtail bombay american bobtail. Lynx havana brown yet sphynx havana brown yet kitty. British shorthair mouser but abyssinian and bombay, so tomcat tom singapura. Tom manx bobcat so thai. Tabby balinese for savannah, tiger, and birman. Tomcat. ",
+        "image": "https://images.unsplash.com/photo-1607500422359-a8831901753b?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1234"
+      }
+    ],
+    "images": [
+      {
+        "id": 14,
+        "title": "imagen1",
+        "url_image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+      },
+      {
+        "id": 5,
+        "title": "imagen2",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 6,
+        "title": "imagen3",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 7,
+        "title": "imagen4",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg"
+      },
+      {
+        "id": 8,
+        "title": "imagen5",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+      }
+    ],
+    "ratings": [],
+    "policies": [
+      {
+        "id": 6,
+        "terms_title": "LLEGADA CON RETRASO",
+        "terms_content": "Si hacés una reserva y no te presentás a la hora pactada tenemos una tolerancia de espera de 59 minutos, una vez pasados se considera no show y la reserva queda cancelada.",
+        "safety_title": "SALUD Y SEGURIDAD",
+        "safety_content": "El auto es desinfectado después de cada alquiler, sobre todo las superficies que más se tocan, como asientos, palanca de cambios, picaportes y manubrio.",
+        "cancellation_title": "CANCELACIÓN DE RESERVA",
+        "cancellation_content": "La confirmación de la reserva prepaga implica la aceptación de un cargo de cancelación desde la realización de dicha reserva hasta 24 Hs previas a la fecha y hora para retirar la unidad equivalente a un monto predeterminado dependiendo de la fecha de pick up del vehículo más 4% de cargos administrativos."
+      }
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      },
+      {
+        "id": "4",
+        "title": "Asientos de cuero",
+        "description": "Asientos de primera!",
+        "icon": "fa-solid fa-chair"
+      },
+      {
+        "id": "5",
+        "title": "Techo corredizo",
+        "description": "re piola tener un techo corredizo",
+        "icon": "fa-solid fa-taxi"
+      },
+      {
+        "id": "6",
+        "title": "Reproductores y pantallas",
+        "description": "autos con pantallas incluídas",
+        "icon": "fa-solid fa-tv"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "2004 Ferrari 360",
+    "license_plate": "ASD-500",
+    "description": "Thai burmese birman. American bobtail british shorthair but bobcat but sphynx but bombay. Sphynx ragdoll but tiger, lion abyssinian so cheetah. Kitty sphynx savannah balinese himalayan so maine coon. Sphynx bobcat or siamese or manx or persian and singapura or egyptian mau. Cougar tom, kitten. Siberian birman american shorthair ocicat ragdoll. Donskoy cheetah donskoy, yet ocelot devonshire rex yet ocelot russian blue. Balinese bobcat yet cheetah. Manx birman so himalayan.",
+    "availability": false,
+    "city": [
+      {
+        "id": 7,
+        "name": "Trinidad",
+        "country": "Cuba"
+      }
+    ],
+    "category": [
+      {
+        "id": "1",
+        "title": "Gama alta",
+        "description": "Ocicat malkin leopard so american bobtail bombay american bobtail. Lynx havana brown yet sphynx havana brown yet kitty. British shorthair mouser but abyssinian and bombay, so tomcat tom singapura. Tom manx bobcat so thai. Tabby balinese for savannah, tiger, and birman. Tomcat. ",
+        "image": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGF1dG98ZW58MHx8MHx8&auto=format&fit=crop&w=500"
+      }
+    ],
+    "images": [
+      {
+        "id": 15,
+        "title": "imagen1",
+        "url_image": "https://media.ed.edmunds-media.com/ferrari/360/2004/oem/2004_ferrari_360_coupe_modena_f_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 5,
+        "title": "imagen2",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 6,
+        "title": "imagen3",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 7,
+        "title": "imagen4",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg"
+      },
+      {
+        "id": 8,
+        "title": "imagen5",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+      }
+    ],
+    "ratings": [],
+    "policies": [
+      {
+        "id": 7,
+        "terms_title": "LLEGADA CON RETRASO",
+        "terms_content": "Si hacés una reserva y no te presentás a la hora pactada tenemos una tolerancia de espera de 59 minutos, una vez pasados se considera no show y la reserva queda cancelada.",
+        "safety_title": "SALUD Y SEGURIDAD",
+        "safety_content": "El auto es desinfectado después de cada alquiler, sobre todo las superficies que más se tocan, como asientos, palanca de cambios, picaportes y manubrio.",
+        "cancellation_title": "CANCELACIÓN DE RESERVA",
+        "cancellation_content": "La confirmación de la reserva prepaga implica la aceptación de un cargo de cancelación desde la realización de dicha reserva hasta 24 Hs previas a la fecha y hora para retirar la unidad equivalente a un monto predeterminado dependiendo de la fecha de pick up del vehículo más 4% de cargos administrativos."
+      }
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      },
+      {
+        "id": "4",
+        "title": "Asientos de cuero",
+        "description": "Asientos de primera!",
+        "icon": "fa-solid fa-chair"
+      },
+      {
+        "id": "5",
+        "title": "Techo corredizo",
+        "description": "re piola tener un techo corredizo",
+        "icon": "fa-solid fa-taxi"
+      },
+      {
+        "id": "6",
+        "title": "Reproductores y pantallas",
+        "description": "autos con pantallas incluídas",
+        "icon": "fa-solid fa-tv"
+      },
+      {
+        "id": "7",
+        "title": "Tracción trasera",
+        "description": "tiene tracción trasera, que otra descripcion necesitas? xd",
+        "icon": "fa-solid fa-tv"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Mercedes-Benz (Gris concreto)",
+    "license_plate": "ASB123",
+    "availability": 1,
+    "description": "Grimalkin panther balinese kitty ragdoll but american bobtail. Tabby. Manx sphynx tom, and ocelot. Leopard sphynx singapura yet cheetah british shorthair. Leopard bombay but abyssinian bengal tom but cheetah. Jaguar lion persian yet malkin. Sphynx. Ocelot persian. Lynx tomcat savannah jaguar burmese american bobtail. Leopard norwegian forest so abyssinian manx.",
+    "images": [
+      {
+        "id": 16,
+        "title": "foto1",
+        "url_image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870"
+      },
+      {
+        "id": 5,
+        "title": "imagen2",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 6,
+        "title": "imagen3",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg"
+      },
+      {
+        "id": 7,
+        "title": "imagen4",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg"
+      },
+      {
+        "id": 8,
+        "title": "imagen5",
+        "url_image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+      }
+    ],
+    "city": [
+      {
+      "id": 8,
+      "name": "Estambul",
+      "country": "Turquia"
+    }
+  ],
+    "category": [
+      {
+        "id": "2",
+        "title": "Gama media-alta",
+        "description": "Ocicat malkin leopard so american bobtail bombay american bobtail. Lynx havana brown yet sphynx havana brown yet kitty. British shorthair mouser but abyssinian and bombay, so tomcat tom singapura. Tom manx bobcat so thai. Tabby balinese for savannah, tiger, and birman. Tomcat. ",
+        "image": "https://images.unsplash.com/photo-1607500422359-a8831901753b?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1234"
+      }
+    ],
+    "policies": [
+      {
+        "id": 8,
+        "terms_title": "LLEGADA CON RETRASO",
+        "terms_content": "Si hacés una reserva y no te presentás a la hora pactada tenemos una tolerancia de espera de 59 minutos, una vez pasados se considera no show y la reserva queda cancelada.",
+        "safety_title": "SALUD Y SEGURIDAD",
+        "safety_content": "El auto es desinfectado después de cada alquiler, sobre todo las superficies que más se tocan, como asientos, palanca de cambios, picaportes y manubrio.",
+        "cancellation_title": "CANCELACIÓN DE RESERVA",
+        "cancellation_content": "La confirmación de la reserva prepaga implica la aceptación de un cargo de cancelación desde la realización de dicha reserva hasta 24 Hs previas a la fecha y hora para retirar la unidad equivalente a un monto predeterminado dependiendo de la fecha de pick up del vehículo más 4% de cargos administrativos."
+      }
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      },
+      {
+        "id": "4",
+        "title": "Asientos de cuero",
+        "description": "Asientos de primera!",
+        "icon": "fa-solid fa-chair"
+      },
+      {
+        "id": "5",
+        "title": "Techo corredizo",
+        "description": "re piola tener un techo corredizo",
+        "icon": "fa-solid fa-taxi"
+      },
+      {
+        "id": "6",
+        "title": "Reproductores y pantallas",
+        "description": "autos con pantallas incluídas",
+        "icon": "fa-solid fa-tv"
+      },
+      {
+        "id": "7",
+        "title": "Tracción trasera",
+        "description": "tiene tracción trasera, que otra descripcion necesitas? xd",
+        "icon": "fa-solid fa-backward"
+      },
+      {
+        "id": "8",
+        "title": "Asientos de Tercera Fila",
+        "description": "opcion comunmente disponible en camionetas, pueden ser moviles o plegables!",
+        "icon": "fa-solid fa-arrows-down-to-people"
+      }
+    ]
+  }
+]

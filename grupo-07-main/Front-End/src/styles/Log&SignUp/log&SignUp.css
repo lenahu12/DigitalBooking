@@ -1,0 +1,44 @@
+/*---------- Registration Form ------------ */
+.registrationForm--container,
+.loginForm--container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.registrationForm--container {
+  padding: 3rem;
+}
+
+.loginForm--container {
+  padding: 14rem;
+}
+
+.registrationForm--form,
+.loginForm--form {
+  display: flex;
+  flex-direction: column;
+  padding: 2.5rem;
+  max-width: 40rem;
+  background-color: white;
+}
+
+.loginForm--form {
+  min-width: 40rem;
+}
+
+.registrationForm--form {
+  min-width: 38rem;
+}
+
+.registrationForm--form-info,
+.loginForm--form-info {
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 1rem 0;
+}
+
+.registrationForm--form-button,
+.loginForm--form-button {
+  margin: 1rem 0rem;
+}

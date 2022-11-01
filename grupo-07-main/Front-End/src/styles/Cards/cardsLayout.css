@@ -1,0 +1,13 @@
+.cardsLayout {
+    background-color: #dedddd40;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding-bottom: 5rem;
+  }
+  .cardsLayout--cards {
+    padding: 0rem 2.5rem 1rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }

@@ -1,0 +1,44 @@
+/*---------- Browser ------------ */
+.browser--container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.7rem 2rem;
+    background-color: var(--primary-white);
+    box-shadow: var(--main-box-shadow);
+    text-align: center;
+    color: var(--tertiary-color);
+  }
+  
+  .browser--form-container {
+    display: flex;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    gap: 1rem;
+    padding-top: 2rem;
+  }
+  
+  .browser--form-button {
+    padding: 0 4rem;
+    box-shadow: var(--secondary-box-shadow);
+  }
+
+  .browser--x-button {
+    color: var(--tertiary-color);
+    opacity: 80%;
+    max-height: 40px;
+    margin: auto;
+    font-size: 1.3rem;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+  }
+
+  .browser--x-button:hover {
+    opacity: 100%;
+    background-color: rgba(221, 220, 220, 0.484);
+  }

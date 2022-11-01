@@ -1,0 +1,482 @@
+[
+  {
+    "id": "1",
+    "title": "2019 Mercedes-Benz AMG GT S",
+    "description": "Ocicat malkin leopard so american bobtail bombay american bobtail. Lynx havana brown yet sphynx havana brown yet kitty. British shorthair mouser but abyssinian and bombay, so tomcat tom singapura. Tom manx bobcat so thai. Tabby balinese for savannah, tiger, and birman. Tomcat. ",
+    "image": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg",
+    "location": "Italia, Roma",
+    "category": "Gama baja",
+    "url": [
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_f_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_e_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_edetail_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_edetail_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_edetail_oem_7_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_w_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_rbdg_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_c_rbdg_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_sedan_63-s_i_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_sedan_63-s_rsd_oem_2_1280x855.jpg"
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      }
+    ],
+    "policies": {
+      "id":"1",
+      "rules":{
+        "title":"Normas",
+        "content":["Check-out: 10:00h","No se permiten perros","No fumar"]
+      },
+      "healthAndSecurity":{
+        "title":"Salud y seguridad",
+        "content":["Airbag","Seguro para circular","Vehiculo con 5 cinturones de seguridad"]
+      },
+      "cancellation":{
+        "title":"Política de cancelación",
+        "content":["Agregá tus fechas de viaje para obtener los detalles de cancelación de este vehiculo"]
+      }
+    }
+  },
+  {
+    "id": "2",
+    "title": "Chevrolet (Azul)",
+    "description": "British shorthair siberian singapura. Thai singapura havana brown. Tomcat american shorthair for kitty. Russian blue. Singapura havana brown so puma but thai bombay. Scottish fold mouser. Scottish fold egyptian mau. Jaguar. Balinese american bobtail, tom american bobtail ocelot tom norwegian forest. American bobtail. Persian panther for cheetah mouser for kitten. Burmese savannah, but egyptian mau and siamese ocicat.",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+    "location": "Francia, Paris",
+    "category": "Gama media",
+    "url": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_e_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      }
+    ],
+    "policies": {
+      "id":"2",
+      "rules":{
+        "title":"Normas",
+        "content":["Check-out: 10:00h","No se permiten perros","No fumar"]
+      },
+      "healthAndSecurity":{
+        "title":"Salud y seguridad",
+        "content":["Airbag","Seguro para circular","Vehiculo con 5 cinturones de seguridad"]
+      },
+      "cancellation":{
+        "title":"Política de cancelación",
+        "content":["Agregá tus fechas de viaje para obtener los detalles de cancelación de este vehiculo"]
+      }
+    }
+  },
+  {
+    "id": "3",
+    "title": "Mercedes-Benz (Rojo)",
+    "description": "Russian blue havana brown. Bobcat. Cornish rex ocelot so russian blue but maine coon havana brown or scottish fold. Tabby turkish angora and siamese devonshire rex. Siberian ragdoll or thai. Tomcat munchkin manx maine coon so kitten, but american shorthair. Himalayan egyptian mau bengal himalayan devonshire rex but tomcat. Burmese cougar but siamese balinese . Puma tomcat. Puma sphynx yet balinese ocelot mouser, but grimalkin. Malkin birman so munchkin, devonshire rex or persian and turkish angora. Manx balinese . Jaguar bombay siberian or lion.",
+    "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=825",
+    "location": "Rusia, Moscu",
+    "category": "Gama baja",
+    "url": [
+      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=825",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_e_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      }
+    ],
+    "policies": {
+      "id":"3",
+      "rules":{
+        "title":"Normas",
+        "content":["Check-out: 10:00h","No se permiten perros","No fumar"]
+      },
+      "healthAndSecurity":{
+        "title":"Salud y seguridad",
+        "content":["Airbag","Seguro para circular","Vehiculo con 5 cinturones de seguridad"]
+      },
+      "cancellation":{
+        "title":"Política de cancelación",
+        "content":["Agregá tus fechas de viaje para obtener los detalles de cancelación de este vehiculo"]
+      }
+    }
+  },
+  {
+    "id": "4",
+    "title": "Audi (Gris Perla)",
+    "description": "Ocelot. Mouser. Devonshire rex. Bengal ocicat so burmese or malkin. Persian devonshire rex, leopard. Cornish rex bobcat for munchkin so grimalkin turkish angora, for cornish rex for himalayan. Egyptian mau. Abyssinian grimalkin tabby so lynx and persian, manx grimalkin. Russian blue. Panther grimalkin, or egyptian mau. British shorthair bengal. Bengal tabby. Kitten panther. British shorthair siamese donskoy manx devonshire rex or bobcat. Birman siberian american shorthair, or bengal. Persian savannah siamese russian blue so abyssinian.",
+    "image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464",
+    "location": "Argentina, Buenos Aires",
+    "category": "Gama alta",
+    "url": [
+      "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_e_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      },
+      {
+        "id": "4",
+        "title": "Asientos de cuero",
+        "description": "Asientos de primera!",
+        "icon": "fa-solid fa-chair"
+      }
+    ],
+    "policies": {
+      "id":"4",
+      "rules":{
+        "title":"Normas",
+        "content":["Check-out: 10:00h","No se permiten perros","No fumar"]
+      },
+      "healthAndSecurity":{
+        "title":"Salud y seguridad",
+        "content":["Airbag","Seguro para circular","Vehiculo con 5 cinturones de seguridad"]
+      },
+      "cancellation":{
+        "title":"Política de cancelación",
+        "content":["Agregá tus fechas de viaje para obtener los detalles de cancelación de este vehiculo"]
+      }
+    }
+  },
+  {
+    "id": "5",
+    "title": "Audi (Amarillo)",
+    "description": "Ocicat leopard, but cornish rex singapura norwegian forest so grimalkin. Lion. Leopard cheetah for devonshire rex. Mouser. Grimalkin. Cornish rex leopard so balinese so bobcat yet bengal so american shorthair for cornish rex. Birman egyptian mau persian persian maine coon bengal, yet persian. Cheetah russian blue. Maine coon burmese or norwegian forest or british shorthair or ocicat yet munchkin cornish rex. Siamese. Turkish angora egyptian mau panther. Malkin tabby abyssinian yet sphynx, thai devonshire rex for puma.",
+    "image": "https://images.unsplash.com/photo-1610399214658-52b9fdea4627?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "location": "Brasil, Brasilia",
+    "category": "Gama media",
+    "url": [
+      "https://images.unsplash.com/photo-1610399214658-52b9fdea4627?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_e_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      },
+      {
+        "id": "4",
+        "title": "Asientos de cuero",
+        "description": "Asientos de primera!",
+        "icon": "fa-solid fa-chair"
+      },
+      {
+        "id": "5",
+        "title": "Techo corredizo",
+        "description": "re piola tener un techo corredizo",
+        "icon": "fa-solid fa-taxi"
+      }
+    ],
+    "policies": {
+      "id":"5",
+      "rules":{
+        "title":"Normas",
+        "content":["Check-out: 10:00h","No se permiten perros","No fumar"]
+      },
+      "healthAndSecurity":{
+        "title":"Salud y seguridad",
+        "content":["Airbag","Seguro para circular","Vehiculo con 5 cinturones de seguridad"]
+      },
+      "cancellation":{
+        "title":"Política de cancelación",
+        "content":["Agregá tus fechas de viaje para obtener los detalles de cancelación de este vehiculo"]
+      }
+    }
+  },
+  {
+    "id": "6",
+    "title": "Ferrari (Rojo)",
+    "description": "Thai burmese birman. American bobtail british shorthair but bobcat but sphynx but bombay. Sphynx ragdoll but tiger, lion abyssinian so cheetah. Kitty sphynx savannah balinese himalayan so maine coon. Sphynx bobcat or siamese or manx or persian and singapura or egyptian mau. Cougar tom, kitten. Siberian birman american shorthair ocicat ragdoll. Donskoy cheetah donskoy, yet ocelot devonshire rex yet ocelot russian blue. Balinese bobcat yet cheetah. Manx birman so himalayan.",
+    "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+    "location": "Estados Unidos, Florida",
+    "category": "Gama media-alta",
+    "url": [
+      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_e_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      },
+      {
+        "id": "4",
+        "title": "Asientos de cuero",
+        "description": "Asientos de primera!",
+        "icon": "fa-solid fa-chair"
+      },
+      {
+        "id": "5",
+        "title": "Techo corredizo",
+        "description": "re piola tener un techo corredizo",
+        "icon": "fa-solid fa-taxi"
+      },
+      {
+        "id": "6",
+        "title": "Reproductores y pantallas",
+        "description": "autos con pantallas incluídas",
+        "icon": "fa-solid fa-tv"
+      }
+    ],
+    "policies": {
+      "id":"6",
+      "rules":{
+        "title":"Normas",
+        "content":["Check-out: 10:00h","No se permiten perros","No fumar"]
+      },
+      "healthAndSecurity":{
+        "title":"Salud y seguridad",
+        "content":["Airbag","Seguro para circular","Vehiculo con 5 cinturones de seguridad"]
+      },
+      "cancellation":{
+        "title":"Política de cancelación",
+        "content":["Agregá tus fechas de viaje para obtener los detalles de cancelación de este vehiculo"]
+      }
+    }
+  },
+  {
+    "id": "7",
+    "title": "Porche (Negro pantera)",
+    "description": "Siamese cougar abyssinian , or balinese yet leopard for tom havana brown. Munchkin lynx. Lynx savannah but maine coon yet himalayan. British shorthair cornish rex, kitty for bobcat british shorthair yet grimalkin, munchkin. Ragdoll munchkin malkin. Bobcat mouser yet british shorthair cornish rex grimalkin. Thai lion but thai, yet siberian so cheetah. Norwegian forest ocelot so ocicat. ",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+    "location": "Trinidad, Cuba",
+    "category": "Gama alta",
+    "url": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_e_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      },
+      {
+        "id": "4",
+        "title": "Asientos de cuero",
+        "description": "Asientos de primera!",
+        "icon": "fa-solid fa-chair"
+      },
+      {
+        "id": "5",
+        "title": "Techo corredizo",
+        "description": "re piola tener un techo corredizo",
+        "icon": "fa-solid fa-taxi"
+      },
+      {
+        "id": "6",
+        "title": "Reproductores y pantallas",
+        "description": "autos con pantallas incluídas",
+        "icon": "fa-solid fa-tv"
+      },
+      {
+        "id": "7",
+        "title": "Tracción trasera",
+        "description": "tiene tracción trasera, que otra descripcion necesitas? xd",
+        "icon": "fa-solid fa-tv"
+      }
+    ],
+    "policies": {
+      "id":"7",
+      "rules":{
+        "title":"Normas",
+        "content":["Check-out: 10:00h","No se permiten perros","No fumar"]
+      },
+      "healthAndSecurity":{
+        "title":"Salud y seguridad",
+        "content":["Airbag","Seguro para circular","Vehiculo con 5 cinturones de seguridad"]
+      },
+      "cancellation":{
+        "title":"Política de cancelación",
+        "content":["Agregá tus fechas de viaje para obtener los detalles de cancelación de este vehiculo"]
+      }
+    }
+  },
+  {
+    "id": "8",
+    "title": "Mercedes-Benz (Gris concreto)",
+    "description": "Grimalkin panther balinese kitty ragdoll but american bobtail. Tabby. Manx sphynx tom, and ocelot. Leopard sphynx singapura yet cheetah british shorthair. Leopard bombay but abyssinian bengal tom but cheetah. Jaguar lion persian yet malkin. Sphynx. Ocelot persian. Lynx tomcat savannah jaguar burmese american bobtail. Leopard norwegian forest so abyssinian manx.",
+    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+    "location": "Turquia, Estambul",
+    "category": "Gama media-alta",
+    "url": [
+      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_coupe_base_r_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_e_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2019/oem/2019_mercedes-benz_amg-gt_convertible_c_edetail_oem_2_1280x855.jpg"
+    ],
+    "features": [
+      {
+        "id": "1",
+        "title": "Sistema de navegación",
+        "description": "autos con GPS incluido!",
+        "icon": "fa-solid fa-location-dot"
+      },
+      {
+        "id": "2",
+        "title": "Control Crucero",
+        "description": "en viajes largos podrás despegar tu pie del acelerador y ponerte cómodo!",
+        "icon": "fa-solid fa-ship"
+      },
+      {
+        "id": "3",
+        "title": "Transmisión automática",
+        "description": "Cambio automático de las marchas del auto",
+        "icon": "fa-solid fa-gauge"
+      },
+      {
+        "id": "4",
+        "title": "Asientos de cuero",
+        "description": "Asientos de primera!",
+        "icon": "fa-solid fa-chair"
+      },
+      {
+        "id": "5",
+        "title": "Techo corredizo",
+        "description": "re piola tener un techo corredizo",
+        "icon": "fa-solid fa-taxi"
+      },
+      {
+        "id": "6",
+        "title": "Reproductores y pantallas",
+        "description": "autos con pantallas incluídas",
+        "icon": "fa-solid fa-tv"
+      },
+      {
+        "id": "7",
+        "title": "Tracción trasera",
+        "description": "tiene tracción trasera, que otra descripcion necesitas? xd",
+        "icon": "fa-solid fa-backward"
+      },
+      {
+        "id": "8",
+        "title": "Asientos de Tercera Fila",
+        "description": "opcion comunmente disponible en camionetas, pueden ser moviles o plegables!",
+        "icon": "fa-solid fa-arrows-down-to-people"
+      }
+    ],
+    "policies": {
+      "id":"8",
+      "rules":{
+        "title":"Normas",
+        "content":["Check-out: 10:00h","No se permiten perros","No fumar"]
+      },
+      "healthAndSecurity":{
+        "title":"Salud y seguridad",
+        "content":["Airbag","Seguro para circular","Vehiculo con 5 cinturones de seguridad"]
+      },
+      "cancellation":{
+        "title":"Política de cancelación",
+        "content":["Agregá tus fechas de viaje para obtener los detalles de cancelación de este vehiculo"]
+      }
+    }
+  }
+]

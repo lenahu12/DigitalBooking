@@ -1,0 +1,128 @@
+{
+	"id": "efb6c98a-151f-441b-a0ff-a25b1b10db6f",
+	"name": "Categorias",
+	"timestamp": "2022-05-25T18:36:27.300Z",
+	"collection_id": "18569396-0f59e3c7-4049-4209-8e70-e49f94838a85",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "ba15d2c6-ed31-483b-8b97-707c36335b42",
+			"name": "Agregar categorias",
+			"url": "http://localhost:8080/categorias/agregar",
+			"time": 292,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				292
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "156527a3-dccf-4f33-bc57-abf843d10e6f",
+			"name": "Traer TODAS categorias",
+			"url": "http://localhost:8080/categorias/",
+			"time": 130,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				130
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "86f349dd-7d6c-40ce-aafa-6f7fc1f4b1d6",
+			"name": "Traer catecorias ID",
+			"url": "http://localhost:8080/categorias/1",
+			"time": 19,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				19
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "b3e4a527-234c-452d-a142-4ded3982aa5e",
+			"name": "Actualizar categorias",
+			"url": "http://localhost:8080/categorias/actualizar",
+			"time": 26,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				26
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "74c3db4b-0180-44df-914e-441067616da9",
+			"name": "Eliminar categoria por ID",
+			"url": "http://localhost:8080/categorias/1",
+			"time": 25,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				25
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 492,
+	"collection": {
+		"requests": [
+			{
+				"id": "ba15d2c6-ed31-483b-8b97-707c36335b42",
+				"method": "POST"
+			},
+			{
+				"id": "156527a3-dccf-4f33-bc57-abf843d10e6f",
+				"method": "GET"
+			},
+			{
+				"id": "86f349dd-7d6c-40ce-aafa-6f7fc1f4b1d6",
+				"method": "GET"
+			},
+			{
+				"id": "b3e4a527-234c-452d-a142-4ded3982aa5e",
+				"method": "PUT"
+			},
+			{
+				"id": "74c3db4b-0180-44df-914e-441067616da9",
+				"method": "DELETE"
+			}
+		]
+	}
+}

@@ -1,0 +1,20 @@
+.productPolicies {
+  margin-bottom: 3rem;
+}
+
+.productPolicies--container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 0 2.5rem;
+}
+
+.productPolicies--contentContainer,
+.productPolicies--content {
+  gap: 2rem;
+  padding-bottom: 4rem;
+  max-width: 40rem;
+}
+.productPolicies--content {
+  gap: 1rem;
+  padding: 0;
+}

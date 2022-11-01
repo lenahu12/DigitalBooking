@@ -1,0 +1,45 @@
+.searchbar__container {
+  box-shadow: var(--secondary-box-shadow);
+  width: 30rem;
+}
+
+.searchbar__control:hover {
+  border-color: #f0572d !important;
+}
+.searchbar__control:focus {
+  border-color: #f0572d !important;
+  border: 1rem solid !important;
+}
+.searchbar__value-container {
+  height: 3.37rem;
+  cursor: pointer;
+}
+
+.searchbar__menu {
+  color: #343333;
+}
+
+.css-1pahdxg-control {
+  border-color: var(--primary-color) !important;
+  box-shadow: 0 0 0 var(--primary-color) !important;
+
+}
+
+.css-9gakcf-option {
+  background-color: var(--primary-color) !important;
+  cursor: pointer !important;
+}
+
+.css-1n7v3ny-option,
+.css-1okebmr-indicatorSeparator {
+  background-color: var(--primary-color-transparent) !important;
+  cursor: pointer !important;
+
+}
+.css-tlfecz-indicatorContainer {
+  color: var(--primary-color-transparent) !important;
+}
+.css-1gtu0rj-indicatorContainer {
+  color: var(--primary-color) !important;
+}
+

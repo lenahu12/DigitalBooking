@@ -1,0 +1,103 @@
+/* gallery */
+.product--galery-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  padding: 1.2rem 2.5rem 0;
+  gap: 0.5rem;
+}
+
+.product--galery-container img,
+.product--galery-img-primary,
+.product--galery-img-div {
+  border-radius: 0.5rem;
+  width: 100%;
+  background-size: cover;
+}
+
+.product--galery-img-primary {
+  background-position: center;
+  grid-row: 1 / span 2;
+  grid-column: 1 / span 2;
+  height: 100%;
+}
+
+.product--galery-img-div {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.product--galery-button {
+  cursor: pointer;
+  background-color: transparent;
+  color: white;
+  border: none;
+  text-decoration: underline;
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding: 2rem;
+}
+
+.product--galery-carousel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--main-bg-color);
+  top: 0;
+}
+.product-galery--tablet {
+  display: none;
+}
+
+.alice-carousel {
+  position: fixed !important;
+  width: 50% !important;
+  top: 20vh !important;
+}
+
+.alice-carousel__stage-item * {
+  max-height: 60vh !important;
+}
+
+.alice-carousel__stage-item > img {
+  width: 100% !important;
+  object-fit: cover;
+}
+
+.product--galery-carousel-icon {
+  font-size: 2.5rem;
+  font-weight: 600;
+  cursor: pointer;
+  z-index: 1;
+  background-color: var(--primary-color);
+  position: relative;
+  top: -25vh;
+  right: -30vw;
+  padding: 0.5rem 2rem;
+  transition: 5000;
+}
+
+.product--galery-carousel-icon:hover {
+  background-color: var(--primary-color-transparent);
+  transition: 5000;
+}
+
+.alice-carousel__dots-item:not(.__custom) {
+  width: 1rem !important;
+  height: 1rem !important;
+  background-color: var(--primary-color-transparent) !important;
+}
+
+.alice-carousel__dots-item:not(.__custom).__active {
+  background-color: var(--primary-color) !important;
+}
+.alice-carousel__prev-btn-item,
+.alice-carousel__next-btn-item {
+  font-size: 3rem !important;
+  color: var(--primary-color) !important;
+}

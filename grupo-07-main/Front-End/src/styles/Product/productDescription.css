@@ -1,0 +1,12 @@
+.productDescription--container {
+  padding: 1rem 2.5rem;
+}
+
+.productDescription--container > h2 {
+  color: var(--tertiary-color);
+  padding: 1.2rem 0;
+}
+
+.productDescription--container > p {
+  padding: 0;
+}

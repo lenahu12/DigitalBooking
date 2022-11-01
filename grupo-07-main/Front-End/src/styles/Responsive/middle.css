@@ -1,0 +1,305 @@
+@media screen and (min-width: 580px) and (max-width: 768px) {
+  /* ------------------ HOME ------------------ */
+
+  /* --- Header --- */
+
+  .header--nav-buttons-container,
+  .loggedHeader--info-container {
+    display: none;
+  }
+
+  .header--nav-btnburger {
+    display: inline-block;
+  }
+
+  .header--container {
+    position: inherit;
+  }
+
+  /* --- Browser --- */
+
+  .browser--form-container {
+    flex-direction: column;
+  }
+  .DateRangePickerInput,
+  .searchbar__container {
+    width: 30rem;
+  }
+
+  /* --- Category Cards --- */
+
+  .category--cards {
+    width: 45%;
+    margin: 1rem 0;
+  }
+
+  /* --- Cards --- */
+
+  .cards--card {
+    flex-direction: column;
+  }
+
+  .cardsLayout--cards {
+    grid-template-columns: 1fr;
+    max-width: 95%;
+    margin: auto;
+  }
+
+  .cards--img {
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+    max-height: 1fr;
+    min-height: 15rem;
+    height: -webkit-fill-available;
+    border-radius: 1rem 1rem 0 0;
+  }
+
+  /* --- Footer --- */
+
+  .footer--nav-container-media {
+    display: none;
+  }
+
+  /* ------------------ LOG IN ------------------ */
+
+  /* --- Log In Form --- */
+
+  .loginForm--form {
+    min-width: 35rem;
+  }
+
+  /* ------------------ SIGN UP ------------------ */
+
+  .registrationForm--form {
+    min-width: 35rem;
+  }
+
+  /* ------------------ PRODUCT ------------------ */
+
+  /* --- gallery --- */
+
+  .product-galery--desktop,
+  .alice-carousel__prev-btn,
+  .alice-carousel__next-btn {
+    display: none;
+  }
+  .product-galery--tablet {
+    display: block;
+  }
+  .alice-carousel {
+    position: inherit !important;
+    width: 100% !important;
+    padding: 1rem 0 !important;
+  }
+  .alice-carousel__stage-item * {
+    height: auto !important;
+  }
+  .alice-carousel__stage-item > img {
+    width: 100% !important;
+  }
+  /* feature */
+  .productFeatures--container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* --- Calendar --- */
+  .product--calendarLayout{
+    padding: 0 2.5rem;
+  }
+  .product--calendarLayout-elements{
+    display: flex;
+    flex-direction: column;
+  }
+  .product--calendarLayout-form{
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: unset;
+    box-shadow: unset;
+    padding: 0;
+  }
+  .calendarLayout-button{
+    width: 50%;
+  }
+
+
+    .react-calendar {
+      max-width: 100% !important;
+      min-width: 100% !important;
+  }
+  .containerForm-containerBooking-formbooking{
+    display: flex;
+    flex-direction: column;
+  }
+  .booking-containerForm{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .containerForm-img, .containerForm-containerBooking-containerInfo{
+    width: 100% ;
+  }
+
+  /* policies */
+  .productPolicies--container {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
+  .productPolicies--contentContainer {
+    padding: 0 2rem 2rem 0;
+  }
+
+  .containerForm-containerUserInput{
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* admin */
+
+  .adminForm-divLocation{
+    grid-template-columns: 1fr;
+  }
+  .adminHeader--title-container{
+    padding: 1.2rem 2.5rem;
+  }
+  .adminForm-divPolicies-containerPolicies{
+    grid-template-columns: 1fr;
+    padding: 1.2rem 1.2rem;
+  }
+  .adminForm-containerPolices-Policies{
+    padding: 0;
+  }
+  .adminForm-sectionContainer{
+    padding: 1.2rem 2.5rem;
+  }
+  .adminForm-category-divLabel{
+    flex-direction: column;
+  }
+
+  .adminForm-sectionContainer{
+    padding: 0;
+  }
+  .adminForm-sectionContainer-title, .adminForm-formCard{
+    padding: 1.2rem 2.5rem;
+  }
+
+  .adminForm-formCard{
+    margin: 0 0 2.9rem;
+    border-radius: 0;
+
+  }
+  .adminForm-category-divIconButton{
+    justify-content: space-between;
+  }
+
+  .adminForm-category-Label{
+    width: 80%;
+  }
+  
+  .category-divLabel-icon .css-b62m3t-container{
+    width: 100%;
+  }
+  .adminForm-category-divLabelButton{
+    margin-left: 0;
+  }
+
+  .category-divLabel-nombre{
+    width: 100%;
+  }
+
+
+}
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+  /* category container */
+  .categoryContainer--categories {
+    justify-content: space-evenly;
+  }
+  .category--cards {
+    width: 55%;
+    margin: 1rem 0;
+  }
+    /* --- Calendar --- */
+    .product--calendarLayout{
+      padding: 0 2.5rem;
+    }
+    .product--calendarLayout-elements{
+      display: flex;
+      flex-direction: column;
+    }
+    .product--calendarLayout-form{
+      flex-direction: row;
+      width: 100%;
+      justify-content: space-between;
+      align-items: center;
+      background-color: unset;
+      box-shadow: unset;
+      padding: 0;
+    }
+    .calendarLayout-button{
+      width: 50%;
+    }
+    .containerForm-img{
+      min-height: 25rem;
+      max-height: 30rem;
+      height: auto;
+    }
+    .containerForm-containerBooking-carTitle{
+      padding: 0 1.2rem;
+    }
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1500px){
+      /* --- Calendar --- */
+      .product--calendarLayout{
+        padding: 0 2.5rem;
+      }
+      .product--calendarLayout-elements{
+        display: flex;
+        flex-direction: column;
+      }
+      .product--calendarLayout-form{
+        flex-direction: row;
+        width: 100%;
+        justify-content: space-between;
+        align-items: center;
+        background-color: unset;
+        box-shadow: unset;
+        padding: 0;
+      }
+      .calendarLayout-button{
+        width: 50%;
+      }
+      .react-calendar__tile,
+      .react-calendar__month-view__weekdays__weekday{
+        min-width: 1.5rem;
+      }
+      .booking-containerForm{
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+      }
+
+      .containerForm-containerBooking-formbooking{
+        display: flex;
+        padding: 0 0 1.2rem 1.2rem;
+      }
+
+      .containerForm-img{
+        width: 50%;
+        min-height: 25rem;
+        max-height: 30rem;
+        height: auto;
+      }
+      .containerForm-containerBooking-containerInfo{
+        width: 50%;
+      }
+      .containerForm-containerBooking-carTitle{
+        padding: 0 1.2rem;
+      }
+      .containerForm-containerBooking-botonera{
+        padding-bottom: 0;
+      }
+}
